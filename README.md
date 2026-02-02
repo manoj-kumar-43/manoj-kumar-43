@@ -1,4 +1,4 @@
-# Hi 👋, I'm Manoj Kumar
+# Hi 👋, I'm Manoj Kumar Sahu
 
 🎓 B.Tech in Computer Science and Engineering  
 💻 Aspiring Software Engineer Intern  
