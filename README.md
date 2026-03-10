@@ -20,7 +20,7 @@ Building scalable web applications and continuously learning modern technologies
 Python, JavaScript  
 
 **Frontend:**  
-HTML5, CSS3, Bootstrap  
+HTML5, CSS3, Bootstrap, React
 
 **Backend:**  
 Node.js, Express.js  
