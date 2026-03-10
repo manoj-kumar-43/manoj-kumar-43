@@ -9,9 +9,8 @@
 
 ## 👨‍💻 About Me
 
-I am a motivated and enthusiastic Computer Science Engineering student with a strong interest in software development and problem solving. I enjoy building real-world projects and learning new technologies. Currently, I am doing a Full Stack Internship at NxtWave where I am gaining hands-on experience in frontend and backend development.
-
-My goal is to become a skilled Software Engineer and work on impactful products.
+MERN Stack Developer | JavaScript | React | Node.js | MongoDB  
+Building scalable web applications and continuously learning modern technologies.
 
 ---
 
